@@ -9,9 +9,11 @@ const personalize = (data) => {
 			var entry = document.createElement("a");
 			entry.href = element.href;
 			entry.target = "_blank";
-			var icon = document.createElement("i");
-			icon.className = element.class;
-			entry.appendChild(icon);
+			if (element.class) {
+				var icon = document.createElement("i");
+				icon.className = element.class;
+				entry.appendChild(icon);
+			}
 			socialDiv.appendChild(entry);
 		});
 	}
