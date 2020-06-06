@@ -1,0 +1,24 @@
+{
+	"name": "My Name",
+	"pageTitle": "Page Title",
+	"tagline": "Any tagline",
+	"theme": "css/themes/red-white.css",
+	"_theme.alternatives": "indigo-white, green-white, grey-white, white-indigo, white-blue, white-grey, white-red, yellow-black",
+	"links": [
+		{
+			"type": "github",
+			"href": "https://github.com/username",
+			"class": "fab fa-github"
+		},
+		{
+			"type": "resume",
+			"href": "link/to/resume",
+			"class": "far fa-file"
+		},
+		{
+			"type": "linkedin",
+			"href": "https://www.linkedin.com/in/username",
+			"class": "fab fa-linkedin"
+		}
+	]
+}

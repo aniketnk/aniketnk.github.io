@@ -1,0 +1,23 @@
+{
+	"name": "Aniket Kaulavkar",
+	"pageTitle": "Aniket's Dev Landing Page",
+	"tagline": "A program does what you tell it to do, not what you want it to do.",
+	"theme": "css/themes/red-white.css",
+	"links": [
+		{
+			"type": "github",
+			"href": "https://github.com/aniketnk",
+			"class": "fab fa-github"
+		},
+		{
+			"type": "resume",
+			"href": "/resume.pdf",
+			"class": "far fa-file"
+		},
+		{
+			"type": "linkedin",
+			"href": "https://www.linkedin.com/in/aniketk26/",
+			"class": "fab fa-linkedin"
+		}
+	]
+}
