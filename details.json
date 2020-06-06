@@ -18,6 +18,11 @@
 			"type": "linkedin",
 			"href": "https://www.linkedin.com/in/aniketk26/",
 			"class": "fab fa-linkedin"
+		},
+		{
+			"type": "til",
+			"href": "https://aniketnk.github.io/til",
+			"class": "fab fa-leanpub"
 		}
 	]
 }
